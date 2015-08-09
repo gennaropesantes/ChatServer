@@ -17,7 +17,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-public class Chat_Server_Main extends JApplet implements ActionListener{
+public class ChatServerMain extends JApplet implements ActionListener{
 
 	TextField messageTextField = new TextField("Type your message");
 	JButton sendButton = new JButton("Send");
